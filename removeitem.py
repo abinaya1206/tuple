@@ -1,3 +1,3 @@
-thisset={"chocolate","paani poori","biriyani","fish"}
-thisset.remove("fish")
-print(thisset)
+thistuple={"chocolate","paani poori","biriyani","fish"}
+thistuple.remove("fish")
+print(thistuple)
