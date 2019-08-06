@@ -1,3 +1,3 @@
-thisset={"apple","banana","grapes"}
-thisset.add("strawberry")
-print(thisset)
+thistuple={"apple","banana","grapes"}
+thistuple.add("strawberry")
+print(thistuple)
